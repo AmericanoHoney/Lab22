@@ -1,5 +1,5 @@
-div = CreateWindow	("BUTTON",
-			// 						"-",
-			// 						WS_VISIBLE|WS_CHILD|WS_BORDER,
-			// 						90,130,20,20,
-			// 						hwnd,(HMENU) 2,NULL,NULL);	
+#include <iostream>
+#include <cstdlib>
+using namespace std;
+int main (int argc,char* argv[])
+{
